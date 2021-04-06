@@ -18,6 +18,7 @@ arch -arm64 brew install ctags
 arch -arm64 brew install jq
 arch -arm64 brew install --cask visual-studio-code
 arch -arm64 brew install terminal-notifier
+arch -arm64 brew install bat
 
 pip3 install --user neovim
 
