@@ -20,3 +20,6 @@ arch -arm64 brew install terminal-notifier
 pip3 install --user neovim
 
 go get -u github.com/antonmedv/countdown
+
+# Oh My Zsh
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
