@@ -1,6 +1,7 @@
 #!/bin/bash -e
 
 brew install --cask karabiner-elements
+brew install --cask alfred
 brew install --cask alt-tab
 brew install stow
 brew install kitty
