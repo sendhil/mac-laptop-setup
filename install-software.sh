@@ -12,6 +12,7 @@ brew install --cask font-fira-code
 brew install koekeishiya/formulae/skhd
 brew services start skhd
 brew install --cask avibrazil-rdm
+brew install fzf
 
 arch -arm64 brew install ripgrep
 arch -arm64 brew install ctags
