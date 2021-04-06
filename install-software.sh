@@ -27,3 +27,5 @@ go get -u github.com/antonmedv/countdown
 
 # Oh My Zsh
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+defaults write -g ApplePressAndHoldEnabled -bool false
