@@ -5,6 +5,7 @@ brew install --cask alt-tab
 brew install stow
 brew install kitty
 brew install node
+brew install neovim
 brew tap homebrew/cask-fonts
 brew install --cask font-fira-code
 brew install koekeishiya/formulae/skhd
