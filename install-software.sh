@@ -14,6 +14,8 @@ brew services start skhd
 brew install --cask avibrazil-rdm
 brew install fzf
 brew install --cask obsidian
+brew install --cask signal
+brew install --cask discord
 brew install go
 
 arch -arm64 brew install ripgrep
