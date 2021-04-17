@@ -2,3 +2,4 @@ This repo contains setup scripts to configure my Mac Laptop. It's not fully auto
 
 1. Run `install-software.sh`
 2. Follow instructions in ManualSetup.md
+3. Optional - run `disable-animations.sh`
