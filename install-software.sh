@@ -30,7 +30,7 @@ pip3 install --user neovim
 
 go get -u github.com/antonmedv/countdown
 
-# Oh My Zsh
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+# Prezto Install
+git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
 
 defaults write -g ApplePressAndHoldEnabled -bool false
