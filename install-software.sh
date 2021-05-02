@@ -31,6 +31,7 @@ arch -arm64 brew install terminal-notifier
 arch -arm64 brew install bat
 arch -arm64 brew install switchaudio-osx
 arch -arm64 brew install bluetoothconnector
+arch -arm64 brew install reattach-to-user-namespace
 
 pip3 install --user neovim
 
