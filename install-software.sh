@@ -29,6 +29,8 @@ arch -arm64 brew install jq
 arch -arm64 brew install --cask visual-studio-code
 arch -arm64 brew install terminal-notifier
 arch -arm64 brew install bat
+arch -arm64 brew install switchaudio-osx
+arch -arm64 brew install bluetoothconnector
 
 pip3 install --user neovim
 
