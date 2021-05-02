@@ -18,6 +18,7 @@ brew install --cask signal
 brew install --cask discord
 brew install --cask whatsapp
 brew install go
+brew install hammerspoon --cask
 
 arch -arm64 brew install tldr
 arch -arm64 brew install ripgrep
