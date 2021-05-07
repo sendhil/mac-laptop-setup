@@ -20,6 +20,7 @@ brew install --cask whatsapp
 brew install go
 brew install hammerspoon --cask
 
+arch -arm64 brew install dust
 arch -arm64 brew install tldr
 arch -arm64 brew install ripgrep
 arch -arm64 brew install exa
