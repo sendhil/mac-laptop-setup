@@ -8,4 +8,4 @@ This is largely a list of things I haven't sorted out how to automate yet.
 6. Install Yabai [link](https://github.com/koekeishiya/yabai/wiki/Installing-yabai-(latest-release)#macos-big-sur---automatically-load-scripting-addition-on-startup)
 7. Install RDM (https://github.com/usr-sse2/RDM/releases). Note - 125% on Ultrawide is 2752X1152 and 120% is 2867X1200
 8. Disable automatically re-arrange spaces
-
+9. Bind shortcuts for Virtual Spaces
