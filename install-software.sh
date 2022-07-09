@@ -32,6 +32,7 @@ arch -arm64 brew install bat
 arch -arm64 brew install switchaudio-osx
 arch -arm64 brew install bluetoothconnector
 arch -arm64 brew install reattach-to-user-namespace
+arch -arm64 brew install viddy
 
 pip3 install --user neovim
 
