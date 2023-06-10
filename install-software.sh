@@ -19,6 +19,7 @@ brew install --cask discord
 brew install --cask whatsapp
 brew install go
 brew install hammerspoon --cask
+brew install coreutils
 
 arch -arm64 brew install dust
 arch -arm64 brew install tldr
