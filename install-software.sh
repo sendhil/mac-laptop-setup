@@ -10,16 +10,17 @@ brew install neovim
 brew tap homebrew/cask-fonts
 brew install --cask font-fira-code
 brew install koekeishiya/formulae/skhd
-brew services start skhd
-brew install --cask avibrazil-rdm
 brew install fzf
 brew install --cask obsidian
 brew install --cask signal
 brew install --cask discord
 brew install --cask whatsapp
+brew install --cask dash
 brew install go
 brew install hammerspoon --cask
 brew install coreutils
+brew install --cask cleanshot
+brew install tmux
 
 arch -arm64 brew install dust
 arch -arm64 brew install tldr
@@ -35,10 +36,9 @@ arch -arm64 brew install switchaudio-osx
 arch -arm64 brew install bluetoothconnector
 arch -arm64 brew install reattach-to-user-namespace
 arch -arm64 brew install viddy
+arch -arm64 brew install lima
 
 pip3 install --user neovim
-
-go get -u github.com/antonmedv/countdown
 
 # Prezto Install
 git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
