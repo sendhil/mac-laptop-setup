@@ -41,6 +41,7 @@ arch -arm64 brew install viddy
 arch -arm64 brew install lima
 
 pip3 install --user neovim
+pip3 install --user black
 
 # Prezto Install
 git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
