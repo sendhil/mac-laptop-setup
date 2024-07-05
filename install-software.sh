@@ -23,7 +23,9 @@ brew install --cask cleanshot
 brew install tmux
 brew install pyright
 brew install tree
-
+brew install bash
+brew install xcodegen
+brew install xcbeautify
 arch -arm64 brew install dust
 arch -arm64 brew install tldr
 arch -arm64 brew install ripgrep
