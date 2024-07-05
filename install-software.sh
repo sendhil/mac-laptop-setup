@@ -28,6 +28,7 @@ brew install xcodegen
 brew install xcbeautify
 brew install shortcat
 brew install jordanbaird-ice
+brew install --cask nikitabobko/tap/aerospace  
 arch -arm64 brew install dust
 arch -arm64 brew install tldr
 arch -arm64 brew install ripgrep
