@@ -32,7 +32,7 @@ brew install --cask betterdisplay
 brew install dust
 brew install tldr
 brew install ripgrep
-brew install exa
+brew install eza
 brew install fd
 brew install ctags
 brew install jq
