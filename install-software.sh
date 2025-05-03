@@ -41,7 +41,6 @@ brew install jq
 brew install --cask visual-studio-code
 brew install terminal-notifier
 brew install bat
-brew install reattach-to-user-namespace
 brew install viddy
 brew install lima
 brew install lnav
