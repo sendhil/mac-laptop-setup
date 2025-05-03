@@ -7,7 +7,6 @@ brew install stow
 brew install kitty
 brew install node
 brew install neovim
-brew tap homebrew/cask-fonts
 brew install --cask font-fira-code
 brew install koekeishiya/formulae/skhd
 brew install fzf
@@ -30,21 +29,22 @@ brew install shortcat
 brew install jordanbaird-ice
 brew install --cask nikitabobko/tap/aerospace  
 brew install --cask betterdisplay
-arch -arm64 brew install dust
-arch -arm64 brew install tldr
-arch -arm64 brew install ripgrep
-arch -arm64 brew install exa
-arch -arm64 brew install fd
-arch -arm64 brew install ctags
-arch -arm64 brew install jq
-arch -arm64 brew install --cask visual-studio-code
-arch -arm64 brew install terminal-notifier
-arch -arm64 brew install bat
-arch -arm64 brew install switchaudio-osx
-arch -arm64 brew install bluetoothconnector
-arch -arm64 brew install reattach-to-user-namespace
-arch -arm64 brew install viddy
-arch -arm64 brew install lima
+brew install dust
+brew install tldr
+brew install ripgrep
+brew install exa
+brew install fd
+brew install ctags
+brew install jq
+brew install --cask visual-studio-code
+brew install terminal-notifier
+brew install bat
+brew install switchaudio-osx
+brew install bluetoothconnector
+brew install reattach-to-user-namespace
+brew install viddy
+brew install lima
+brew install lnav
 
 pip3 install --user neovim
 pip3 install --user black
