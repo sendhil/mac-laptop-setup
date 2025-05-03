@@ -8,6 +8,8 @@ brew install kitty
 brew install node
 brew install neovim
 brew install --cask font-fira-code
+brew install --cask font-meslo-for-powerline10k
+brew install --cask font-monaspace-nerd-font font-noto-sans-symbols-2
 brew install koekeishiya/formulae/skhd
 brew install fzf
 brew install --cask obsidian
@@ -16,8 +18,8 @@ brew install --cask discord
 brew install --cask whatsapp
 brew install --cask dash
 brew install go
-brew install hammerspoon --cask
 brew install coreutils
+brew install gawk
 brew install --cask cleanshot
 brew install tmux
 brew install pyright
@@ -39,18 +41,24 @@ brew install jq
 brew install --cask visual-studio-code
 brew install terminal-notifier
 brew install bat
-brew install switchaudio-osx
-brew install bluetoothconnector
 brew install reattach-to-user-namespace
 brew install viddy
 brew install lima
 brew install lnav
 brew install pyenv
+brew install --cask iterm2
+brew install --cask istat-menus
+brew install --cask textmate
+brew install lazygit
 
 pip3 install --user neovim
 pip3 install --user black
 
+npm i -g @openai/codex
+npm i -g @anthropic-ai/claude-code
+
 # Prezto Install
 git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
+
 
 defaults write -g ApplePressAndHoldEnabled -bool false
