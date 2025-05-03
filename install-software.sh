@@ -45,6 +45,7 @@ brew install reattach-to-user-namespace
 brew install viddy
 brew install lima
 brew install lnav
+brew install pyenv
 
 pip3 install --user neovim
 pip3 install --user black
