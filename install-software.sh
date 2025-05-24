@@ -49,6 +49,9 @@ brew install --cask iterm2
 brew install --cask istat-menus
 brew install --cask textmate
 brew install lazygit
+brew install llm
+brew install zoxide
+brew install ruff
 
 pip3 install --user neovim
 pip3 install --user black
