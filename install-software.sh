@@ -52,6 +52,7 @@ brew install lazygit
 brew install llm
 brew install zoxide
 brew install ruff
+brew install mcfly
 
 pip3 install --user neovim
 pip3 install --user black
