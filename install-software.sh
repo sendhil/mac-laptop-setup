@@ -60,6 +60,9 @@ pip3 install --user black
 npm i -g @openai/codex
 npm i -g @anthropic-ai/claude-code
 
+cargo install repgrep
+brew install lusingander/tap/serie
+
 # Prezto Install
 git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
 
