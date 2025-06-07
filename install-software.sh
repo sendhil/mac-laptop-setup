@@ -53,6 +53,7 @@ brew install llm
 brew install zoxide
 brew install ruff
 brew install mcfly
+brew install glow
 
 pip3 install --user neovim
 pip3 install --user black
