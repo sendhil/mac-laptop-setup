@@ -56,6 +56,9 @@ brew install mcfly
 brew install glow
 brew install bufbuild/buf/buf
 
+brew tap notwadegrimridge/brew
+brew install pingplace --no-quarantine
+
 pip3 install --user neovim
 pip3 install --user black
 
