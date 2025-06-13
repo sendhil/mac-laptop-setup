@@ -55,6 +55,7 @@ brew install ruff
 brew install mcfly
 brew install glow
 brew install bufbuild/buf/buf
+brew install fpp
 
 brew tap notwadegrimridge/brew
 brew install pingplace --no-quarantine
