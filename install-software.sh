@@ -56,6 +56,7 @@ brew install mcfly
 brew install glow
 brew install bufbuild/buf/buf
 brew install fpp
+brew install noahgorstein/tap/jqp
 
 brew tap notwadegrimridge/brew
 brew install pingplace --no-quarantine
