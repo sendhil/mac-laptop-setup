@@ -61,6 +61,7 @@ brew install jnv
 brew install hl
 brew install homeport/tap/dyff
 brew install yazi
+brew install chafa
 
 brew tap notwadegrimridge/brew
 brew install pingplace --no-quarantine
