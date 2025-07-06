@@ -29,7 +29,7 @@ brew install xcodegen
 brew install xcbeautify
 brew install shortcat
 brew install jordanbaird-ice
-brew install --cask nikitabobko/tap/aerospace  
+brew install --cask nikitabobko/tap/aerospace
 brew install --cask betterdisplay
 brew install dust
 brew install tldr
@@ -60,6 +60,7 @@ brew install noahgorstein/tap/jqp
 brew install jnv
 brew install hl
 brew install homeport/tap/dyff
+brew install yazi
 
 brew tap notwadegrimridge/brew
 brew install pingplace --no-quarantine
@@ -75,6 +76,5 @@ brew install lusingander/tap/serie
 
 # Prezto Install
 git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
-
 
 defaults write -g ApplePressAndHoldEnabled -bool false
