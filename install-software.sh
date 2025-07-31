@@ -57,6 +57,7 @@ brew install glow
 brew install bufbuild/buf/buf
 brew install fpp
 brew install noahgorstein/tap/jqp
+brew install jless
 brew install jnv
 brew install hl
 brew install homeport/tap/dyff
