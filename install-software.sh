@@ -72,6 +72,10 @@ brew install pingplace --no-quarantine
 pip3 install --user neovim
 pip3 install --user black
 
+brew install pipx
+pipx ensurepath
+pipx install asciinema
+
 npm i -g @openai/codex
 npm i -g @anthropic-ai/claude-code
 
