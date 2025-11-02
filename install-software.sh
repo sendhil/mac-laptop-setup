@@ -65,6 +65,7 @@ brew install yazi
 brew install chafa
 brew install git-lfs
 brew install docker-compose
+brew install gh
 
 brew tap notwadegrimridge/brew
 brew install pingplace --no-quarantine
