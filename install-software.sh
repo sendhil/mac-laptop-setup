@@ -66,6 +66,9 @@ brew install chafa
 brew install git-lfs
 brew install docker-compose
 brew install gh
+brew install gitnr
+uv tool install gruyere
+brew install resterm
 
 brew tap notwadegrimridge/brew
 brew install pingplace --no-quarantine
