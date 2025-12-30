@@ -72,6 +72,7 @@ brew install resterm
 brew install opencode
 brew install visualdiffer
 brew install watchexec
+brew install --cask kubeterm
 
 brew tap notwadegrimridge/brew
 brew install pingplace --no-quarantine
