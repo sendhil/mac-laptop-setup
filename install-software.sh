@@ -1,5 +1,10 @@
 #!/bin/bash -e
 
+pip3 install --user neovim
+pip3 install --user black
+
+npm i -g @openai/codex
+
 brew install --cask karabiner-elements
 brew install --cask alfred
 brew install --cask alt-tab
@@ -25,6 +30,8 @@ brew install tmux
 brew install pyright
 brew install tree
 brew install bash
+brew tap notwadegrimridge/brew
+brew install pingplace --no-quarantine
 brew install xcodegen
 brew install xcbeautify
 brew install shortcat
@@ -67,25 +74,15 @@ brew install git-lfs
 brew install docker-compose
 brew install gh
 brew install gitnr
+brew install uv
+brew install ripgrep
 uv tool install gruyere
+brew install claude-code
 brew install resterm
 brew install opencode
 brew install visualdiffer
 brew install watchexec
 brew install --cask kubeterm
-
-brew tap notwadegrimridge/brew
-brew install pingplace --no-quarantine
-
-pip3 install --user neovim
-pip3 install --user black
-
-brew install uv
-
-npm i -g @openai/codex
-npm i -g @anthropic-ai/claude-code
-
-cargo install repgrep
 brew install lusingander/tap/serie
 
 # Prezto Install
