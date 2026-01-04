@@ -9,7 +9,6 @@ brew install --cask karabiner-elements
 brew install --cask alfred
 brew install --cask alt-tab
 brew install stow
-brew install kitty
 brew install node
 brew install neovim
 brew install --cask font-fira-code
@@ -18,9 +17,9 @@ brew install --cask font-monaspace-nerd-font font-noto-sans-symbols-2
 brew install koekeishiya/formulae/skhd
 brew install fzf
 brew install --cask obsidian
-brew install --cask signal
-brew install --cask discord
-brew install --cask whatsapp
+# brew install --cask signal
+# brew install --cask discord
+# brew install --cask whatsapp
 brew install --cask dash
 brew install go
 brew install coreutils
