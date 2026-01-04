@@ -83,6 +83,7 @@ brew install visualdiffer
 brew install watchexec
 brew install --cask kubeterm
 brew install lusingander/tap/serie
+brew install difftastic
 
 # Prezto Install
 git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
