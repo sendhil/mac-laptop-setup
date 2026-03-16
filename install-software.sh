@@ -85,6 +85,7 @@ brew install --cask kubeterm
 brew install lusingander/tap/serie
 brew install difftastic
 brew install lazydocker
+brew install oven-sh/bun/bun
 
 # Prezto Install
 git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
