@@ -86,6 +86,7 @@ brew install lusingander/tap/serie
 brew install difftastic
 brew install lazydocker
 brew install oven-sh/bun/bun
+brew install flock
 
 # Prezto Install
 git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
