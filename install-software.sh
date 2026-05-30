@@ -78,7 +78,7 @@ brew install ripgrep
 uv tool install gruyere
 brew install claude-code
 brew install resterm
-brew install opencode
+brew install anomalyco/tap/opencode
 brew install visualdiffer
 brew install watchexec
 brew install --cask kubeterm
