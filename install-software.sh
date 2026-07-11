@@ -14,6 +14,7 @@ brew install neovim
 brew install --cask font-fira-code
 brew install --cask font-meslo-for-powerline
 brew install --cask font-monaspace-nerd-font font-noto-sans-symbols-2
+brew install --cask font-jetbrains-mono-nerd-font
 brew install koekeishiya/formulae/skhd
 brew install fzf
 brew install --cask obsidian
